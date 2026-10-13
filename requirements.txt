@@ -1,0 +1,9 @@
+numpy
+scipy
+scikit-learn
+pandas
+matplotlib
+joblib
+soundfile
+# only needed for test_features.py (cross-check of MFCC against an independent library):
+librosa

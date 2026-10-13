@@ -1,0 +1,3 @@
+measure,raw_mean,raw_std,preemph_mean,preemph_std
+"spectral slope (dB/octave, 100-8000 Hz)",-6.39,3.43,-1.23,3.46
+spectral centroid (Hz),1025.84,1149.75,2659.28,1323.03

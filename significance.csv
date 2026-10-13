@@ -1,0 +1,153 @@
+train,family,preemph,cond,comparison,mean_diff_acc,p,p_holm
+clean,fusion_vs_MFCC,False,clean,LPCC - MFCC,-0.0639,0.0022,0.0111
+clean,fusion_vs_MFCC,False,clean,PLP - MFCC,0.0181,0.495,0.495
+clean,fusion_vs_MFCC,False,clean,MFCC+LPCC - MFCC,0.0424,0.0105,0.0419
+clean,fusion_vs_MFCC,False,clean,MFCC+PLP - MFCC,0.0444,0.0149,0.0446
+clean,fusion_vs_MFCC,False,clean,LPCC+PLP - MFCC,0.0382,0.0556,0.1112
+clean,fusion_vs_MFCC,False,clean,MFCC+LPCC+PLP - MFCC,0.0722,0.0018,0.0109
+clean,fusion_vs_MFCC,False,20,LPCC - MFCC,-0.0104,0.2603,0.5206
+clean,fusion_vs_MFCC,False,20,PLP - MFCC,0.0174,0.06,0.2399
+clean,fusion_vs_MFCC,False,20,MFCC+LPCC - MFCC,0.0361,0.0015,0.0074
+clean,fusion_vs_MFCC,False,20,MFCC+PLP - MFCC,0.0083,0.3225,0.5206
+clean,fusion_vs_MFCC,False,20,LPCC+PLP - MFCC,0.0451,0.0005,0.0032
+clean,fusion_vs_MFCC,False,20,MFCC+LPCC+PLP - MFCC,0.0132,0.0642,0.2399
+clean,fusion_vs_MFCC,False,10,LPCC - MFCC,-0.025,0.0152,0.0457
+clean,fusion_vs_MFCC,False,10,PLP - MFCC,0.0222,0.0393,0.0785
+clean,fusion_vs_MFCC,False,10,MFCC+LPCC - MFCC,-0.0326,0.0055,0.0221
+clean,fusion_vs_MFCC,False,10,MFCC+PLP - MFCC,0.0194,0.1374,0.1374
+clean,fusion_vs_MFCC,False,10,LPCC+PLP - MFCC,-0.0361,0.0007,0.0036
+clean,fusion_vs_MFCC,False,10,MFCC+LPCC+PLP - MFCC,-0.0368,0.0006,0.0036
+clean,fusion_vs_MFCC,False,0,LPCC - MFCC,0.0,1.0,1.0
+clean,fusion_vs_MFCC,False,0,PLP - MFCC,0.0118,0.0379,0.2275
+clean,fusion_vs_MFCC,False,0,MFCC+LPCC - MFCC,0.0,1.0,1.0
+clean,fusion_vs_MFCC,False,0,MFCC+PLP - MFCC,-0.0028,0.8785,1.0
+clean,fusion_vs_MFCC,False,0,LPCC+PLP - MFCC,0.0,1.0,1.0
+clean,fusion_vs_MFCC,False,0,MFCC+LPCC+PLP - MFCC,0.0,1.0,1.0
+clean,fusion_vs_MFCC,True,clean,LPCC - MFCC,-0.066,0.0191,0.0953
+clean,fusion_vs_MFCC,True,clean,PLP - MFCC,0.0229,0.3007,0.3007
+clean,fusion_vs_MFCC,True,clean,MFCC+LPCC - MFCC,0.0215,0.085,0.255
+clean,fusion_vs_MFCC,True,clean,MFCC+PLP - MFCC,0.0549,0.0047,0.0282
+clean,fusion_vs_MFCC,True,clean,LPCC+PLP - MFCC,0.0264,0.1095,0.255
+clean,fusion_vs_MFCC,True,clean,MFCC+LPCC+PLP - MFCC,0.0514,0.0215,0.0953
+clean,fusion_vs_MFCC,True,20,LPCC - MFCC,-0.0347,0.0055,0.0328
+clean,fusion_vs_MFCC,True,20,PLP - MFCC,0.0007,0.7951,0.8975
+clean,fusion_vs_MFCC,True,20,MFCC+LPCC - MFCC,0.0194,0.1248,0.3744
+clean,fusion_vs_MFCC,True,20,MFCC+PLP - MFCC,0.0062,0.4488,0.8975
+clean,fusion_vs_MFCC,True,20,LPCC+PLP - MFCC,0.0361,0.0076,0.0378
+clean,fusion_vs_MFCC,True,20,MFCC+LPCC+PLP - MFCC,0.0264,0.0117,0.0468
+clean,fusion_vs_MFCC,True,10,LPCC - MFCC,-0.016,0.0644,0.3222
+clean,fusion_vs_MFCC,True,10,PLP - MFCC,0.0083,0.2586,0.7757
+clean,fusion_vs_MFCC,True,10,MFCC+LPCC - MFCC,-0.0208,0.0326,0.1955
+clean,fusion_vs_MFCC,True,10,MFCC+PLP - MFCC,0.0139,0.0958,0.3831
+clean,fusion_vs_MFCC,True,10,LPCC+PLP - MFCC,-0.0069,0.5244,1.0
+clean,fusion_vs_MFCC,True,10,MFCC+LPCC+PLP - MFCC,-0.0049,0.8659,1.0
+clean,fusion_vs_MFCC,True,0,LPCC - MFCC,0.0,1.0,1.0
+clean,fusion_vs_MFCC,True,0,PLP - MFCC,0.0014,0.8738,1.0
+clean,fusion_vs_MFCC,True,0,MFCC+LPCC - MFCC,0.0,1.0,1.0
+clean,fusion_vs_MFCC,True,0,MFCC+PLP - MFCC,0.0,1.0,1.0
+clean,fusion_vs_MFCC,True,0,LPCC+PLP - MFCC,0.0,1.0,1.0
+clean,fusion_vs_MFCC,True,0,MFCC+LPCC+PLP - MFCC,0.0,1.0,1.0
+clean,preemph_effect,on-off,clean,MFCC,0.0021,0.9839,1.0
+clean,preemph_effect,on-off,clean,LPCC,-0.0,0.7668,1.0
+clean,preemph_effect,on-off,clean,PLP,0.0069,0.5019,1.0
+clean,preemph_effect,on-off,clean,MFCC+LPCC,-0.0187,0.0683,0.4101
+clean,preemph_effect,on-off,clean,MFCC+PLP,0.0125,0.2455,1.0
+clean,preemph_effect,on-off,clean,LPCC+PLP,-0.0097,0.295,1.0
+clean,preemph_effect,on-off,clean,MFCC+LPCC+PLP,-0.0188,0.0399,0.279
+clean,preemph_effect,on-off,20,MFCC,0.0229,0.0163,0.0976
+clean,preemph_effect,on-off,20,LPCC,-0.0014,0.9673,1.0
+clean,preemph_effect,on-off,20,PLP,0.0063,0.5056,1.0
+clean,preemph_effect,on-off,20,MFCC+LPCC,0.0062,0.7763,1.0
+clean,preemph_effect,on-off,20,MFCC+PLP,0.0208,0.0953,0.4764
+clean,preemph_effect,on-off,20,LPCC+PLP,0.0139,0.1791,0.7165
+clean,preemph_effect,on-off,20,MFCC+LPCC+PLP,0.0361,0.0035,0.0246
+clean,preemph_effect,on-off,10,MFCC,-0.0104,0.2295,0.6886
+clean,preemph_effect,on-off,10,LPCC,-0.0014,1.0,1.0
+clean,preemph_effect,on-off,10,PLP,-0.0243,0.0302,0.1815
+clean,preemph_effect,on-off,10,MFCC+LPCC,0.0014,0.5864,1.0
+clean,preemph_effect,on-off,10,MFCC+PLP,-0.016,0.1548,0.6481
+clean,preemph_effect,on-off,10,LPCC+PLP,0.0188,0.1296,0.6481
+clean,preemph_effect,on-off,10,MFCC+LPCC+PLP,0.0215,0.0134,0.0939
+clean,preemph_effect,on-off,0,MFCC,0.0,1.0,1.0
+clean,preemph_effect,on-off,0,LPCC,0.0,1.0,1.0
+clean,preemph_effect,on-off,0,PLP,-0.0104,0.1379,0.9654
+clean,preemph_effect,on-off,0,MFCC+LPCC,0.0,1.0,1.0
+clean,preemph_effect,on-off,0,MFCC+PLP,0.0028,0.9036,1.0
+clean,preemph_effect,on-off,0,LPCC+PLP,0.0,1.0,1.0
+clean,preemph_effect,on-off,0,MFCC+LPCC+PLP,0.0,1.0,1.0
+multi,fusion_vs_MFCC,False,clean,LPCC - MFCC,-0.075,0.0007,0.0041
+multi,fusion_vs_MFCC,False,clean,PLP - MFCC,-0.0063,0.6029,1.0
+multi,fusion_vs_MFCC,False,clean,MFCC+LPCC - MFCC,0.0076,0.7803,1.0
+multi,fusion_vs_MFCC,False,clean,MFCC+PLP - MFCC,0.0319,0.0277,0.1384
+multi,fusion_vs_MFCC,False,clean,LPCC+PLP - MFCC,0.0076,0.5226,1.0
+multi,fusion_vs_MFCC,False,clean,MFCC+LPCC+PLP - MFCC,0.0382,0.0533,0.2134
+multi,fusion_vs_MFCC,False,20,LPCC - MFCC,-0.0812,0.0027,0.0159
+multi,fusion_vs_MFCC,False,20,PLP - MFCC,-0.0208,0.2007,1.0
+multi,fusion_vs_MFCC,False,20,MFCC+LPCC - MFCC,-0.0035,0.6751,1.0
+multi,fusion_vs_MFCC,False,20,MFCC+PLP - MFCC,0.0028,0.7329,1.0
+multi,fusion_vs_MFCC,False,20,LPCC+PLP - MFCC,0.0083,0.6846,1.0
+multi,fusion_vs_MFCC,False,20,MFCC+LPCC+PLP - MFCC,0.0125,0.2758,1.0
+multi,fusion_vs_MFCC,False,10,LPCC - MFCC,-0.0576,0.0028,0.0171
+multi,fusion_vs_MFCC,False,10,PLP - MFCC,0.0208,0.1306,0.3918
+multi,fusion_vs_MFCC,False,10,MFCC+LPCC - MFCC,0.0125,0.8557,0.8557
+multi,fusion_vs_MFCC,False,10,MFCC+PLP - MFCC,0.0215,0.0574,0.2295
+multi,fusion_vs_MFCC,False,10,LPCC+PLP - MFCC,0.0153,0.3332,0.6664
+multi,fusion_vs_MFCC,False,10,MFCC+LPCC+PLP - MFCC,0.0354,0.0073,0.0363
+multi,fusion_vs_MFCC,False,0,LPCC - MFCC,-0.0667,0.0025,0.0151
+multi,fusion_vs_MFCC,False,0,PLP - MFCC,0.0063,0.4917,0.9834
+multi,fusion_vs_MFCC,False,0,MFCC+LPCC - MFCC,0.0153,0.1226,0.6128
+multi,fusion_vs_MFCC,False,0,MFCC+PLP - MFCC,0.0104,0.1511,0.6128
+multi,fusion_vs_MFCC,False,0,LPCC+PLP - MFCC,-0.0028,0.8661,0.9834
+multi,fusion_vs_MFCC,False,0,MFCC+LPCC+PLP - MFCC,0.0125,0.1607,0.6128
+multi,fusion_vs_MFCC,True,clean,LPCC - MFCC,-0.0694,0.0013,0.0077
+multi,fusion_vs_MFCC,True,clean,PLP - MFCC,0.0153,0.5156,0.9115
+multi,fusion_vs_MFCC,True,clean,MFCC+LPCC - MFCC,0.0118,0.1982,0.7292
+multi,fusion_vs_MFCC,True,clean,MFCC+PLP - MFCC,0.0257,0.1823,0.7292
+multi,fusion_vs_MFCC,True,clean,LPCC+PLP - MFCC,0.0083,0.4557,0.9115
+multi,fusion_vs_MFCC,True,clean,MFCC+LPCC+PLP - MFCC,0.0306,0.0414,0.207
+multi,fusion_vs_MFCC,True,20,LPCC - MFCC,-0.0951,0.0011,0.0065
+multi,fusion_vs_MFCC,True,20,PLP - MFCC,-0.0035,0.9514,1.0
+multi,fusion_vs_MFCC,True,20,MFCC+LPCC - MFCC,0.0167,0.5124,1.0
+multi,fusion_vs_MFCC,True,20,MFCC+PLP - MFCC,0.0188,0.1241,0.6205
+multi,fusion_vs_MFCC,True,20,LPCC+PLP - MFCC,0.0049,0.7452,1.0
+multi,fusion_vs_MFCC,True,20,MFCC+LPCC+PLP - MFCC,0.0278,0.1308,0.6205
+multi,fusion_vs_MFCC,True,10,LPCC - MFCC,-0.0875,0.0002,0.0014
+multi,fusion_vs_MFCC,True,10,PLP - MFCC,0.009,0.4894,0.9787
+multi,fusion_vs_MFCC,True,10,MFCC+LPCC - MFCC,0.0181,0.0998,0.3777
+multi,fusion_vs_MFCC,True,10,MFCC+PLP - MFCC,0.0194,0.0944,0.3777
+multi,fusion_vs_MFCC,True,10,LPCC+PLP - MFCC,0.0042,0.903,0.9787
+multi,fusion_vs_MFCC,True,10,MFCC+LPCC+PLP - MFCC,0.0396,0.0034,0.0171
+multi,fusion_vs_MFCC,True,0,LPCC - MFCC,-0.1069,0.0002,0.0011
+multi,fusion_vs_MFCC,True,0,PLP - MFCC,-0.0139,0.2726,1.0
+multi,fusion_vs_MFCC,True,0,MFCC+LPCC - MFCC,-0.0035,1.0,1.0
+multi,fusion_vs_MFCC,True,0,MFCC+PLP - MFCC,0.0049,0.6955,1.0
+multi,fusion_vs_MFCC,True,0,LPCC+PLP - MFCC,-0.0167,0.1024,0.5119
+multi,fusion_vs_MFCC,True,0,MFCC+LPCC+PLP - MFCC,0.0021,0.5571,1.0
+multi,preemph_effect,on-off,clean,MFCC,-0.009,0.3319,1.0
+multi,preemph_effect,on-off,clean,LPCC,-0.0035,0.6465,1.0
+multi,preemph_effect,on-off,clean,PLP,0.0125,0.2108,1.0
+multi,preemph_effect,on-off,clean,MFCC+LPCC,-0.0049,0.355,1.0
+multi,preemph_effect,on-off,clean,MFCC+PLP,-0.0153,0.1408,0.845
+multi,preemph_effect,on-off,clean,LPCC+PLP,-0.0083,0.4449,1.0
+multi,preemph_effect,on-off,clean,MFCC+LPCC+PLP,-0.0167,0.1112,0.7781
+multi,preemph_effect,on-off,20,MFCC,-0.0063,0.3683,1.0
+multi,preemph_effect,on-off,20,LPCC,-0.0201,0.1639,1.0
+multi,preemph_effect,on-off,20,PLP,0.0111,0.2145,1.0
+multi,preemph_effect,on-off,20,MFCC+LPCC,0.0139,0.2423,1.0
+multi,preemph_effect,on-off,20,MFCC+PLP,0.0097,0.2537,1.0
+multi,preemph_effect,on-off,20,LPCC+PLP,-0.0097,0.2997,1.0
+multi,preemph_effect,on-off,20,MFCC+LPCC+PLP,0.009,0.4957,1.0
+multi,preemph_effect,on-off,10,MFCC,0.0069,0.4832,1.0
+multi,preemph_effect,on-off,10,LPCC,-0.0229,0.0578,0.4049
+multi,preemph_effect,on-off,10,PLP,-0.0049,0.836,1.0
+multi,preemph_effect,on-off,10,MFCC+LPCC,0.0125,0.1737,0.9395
+multi,preemph_effect,on-off,10,MFCC+PLP,0.0049,0.4889,1.0
+multi,preemph_effect,on-off,10,LPCC+PLP,-0.0042,0.7594,1.0
+multi,preemph_effect,on-off,10,MFCC+LPCC+PLP,0.0111,0.1566,0.9395
+multi,preemph_effect,on-off,0,MFCC,0.0069,0.2575,1.0
+multi,preemph_effect,on-off,0,LPCC,-0.0333,0.0002,0.0017
+multi,preemph_effect,on-off,0,PLP,-0.0132,0.1295,0.7771
+multi,preemph_effect,on-off,0,MFCC+LPCC,-0.0118,0.2298,1.0
+multi,preemph_effect,on-off,0,MFCC+PLP,0.0014,0.9302,1.0
+multi,preemph_effect,on-off,0,LPCC+PLP,-0.0069,0.3489,1.0
+multi,preemph_effect,on-off,0,MFCC+LPCC+PLP,-0.0035,0.7719,1.0
